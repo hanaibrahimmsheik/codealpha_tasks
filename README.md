@@ -1,6 +1,6 @@
-# CodeAlpha Blockchain Internship Tasks
+# Blockchain Simple Projects
 
-## 1. CodeAlpha_SimpleStorage
+## 1. SimpleStorage
 
 A Solidity smart contract that stores an integer and lets you increase or decrease it by 1.
 
@@ -18,7 +18,7 @@ A Solidity smart contract that stores an integer and lets you increase or decrea
 
 ---
 
-## 2. CodeAlpha_MultiSend
+## 2. MultiSend
 
 A Solidity smart contract that splits Ether sent to it equally among a list of addresses.
 
@@ -37,7 +37,7 @@ A Solidity smart contract that splits Ether sent to it equally among a list of a
 
 ---
 
-## 3. CodeAlpha_TimeLock (Task 4 – Personal Portfolio / Crypto Locking)
+## 3. TimeLock (Personal Portfolio / Crypto Locking)
 
 A Solidity smart contract that allows users to deposit Ether with a time-lock. Funds can only be withdrawn after the lock period has expired.
 
